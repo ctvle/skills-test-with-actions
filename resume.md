@@ -23,4 +23,4 @@ _Developed and maintained various conference talks online training and in-person
 
 ### Leadership
 
-_Managed multiple asynchronous teams in the development, maintenance and release of various web applications and websites>_
+_Managed multiple asynchronous teams in the development, maintenance and release of various web applications and websites_
