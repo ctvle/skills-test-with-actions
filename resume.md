@@ -8,11 +8,6 @@ _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
 _Teach all things Git, give away all the stickers, ensure world peace._
 
-<!--
-  Note here: Learners -- yup, you found the error!
-  Course maintainers -- leave the italics with _ instead of * for the error case.
--->
-
 ### Supportocat
 
 _Provide world class support to customers on the GitHub platform_
