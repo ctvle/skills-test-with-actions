@@ -8,7 +8,7 @@ _Charting the knowledge of the Internet just like Galileo charted the stars_
 
 _Teach all things Git give away all the stickers, ensure world peace_
 
- Note here: Learners yup, you found the error!
+ _Note here: Learners yup, you found the error_
   _Course maintainers leave the italics with instead of for the error case_
 
 ### Supportocat
@@ -23,4 +23,4 @@ _Developed and maintained various conference talks online training and in-person
 
 ### Leadership
 
-_Managed multiple asynchronous teams in the development maintenance and release of various web applications and websites_
+_Managed multiple asynchronous teams in the development, maintenance and release of various web applications and websites_
